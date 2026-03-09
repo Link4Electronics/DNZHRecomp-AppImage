@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name="Duke Nukem Zero Hour: Recompiled"
+Comment=A native port of Duke Nukem Zero Hour, statically recompiled
+Exec=DNZHRecompiled
+Terminal=false
+Icon=512
+StartupWMClass=
+Type=Application
+Categories=Game;Action;Shooting;
