@@ -9,6 +9,8 @@ export ADD_HOOKS="self-updater.bg.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
 export ICON=https://raw.githubusercontent.com/sonicdcer/DNZHRecomp/refs/heads/main/icons/512.png
 export APPNAME="DNZH Recompiled"
+export DEPLOY_GTK=1
+export GTK_DIR=gtk-3.0
 export DEPLOY_VULKAN=1
 
 # Deploy dependencies
