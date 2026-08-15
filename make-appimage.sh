@@ -16,8 +16,6 @@ export DEPLOY_VULKAN=1
 quick-sharun ./AppDir/bin/DNZHRecompiled
 echo 'SHARUN_WORKING_DIR=${SHARUN_DIR}/bin' >> ./AppDir/.env
 
-# Additional changes can be done in between here
-
 # Turn AppDir into AppImage
 quick-sharun --make-appimage
 
